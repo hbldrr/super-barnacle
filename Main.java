@@ -16,6 +16,7 @@ public class Main {
         System.out.println("IntelliJ");
         System.out.println("commit from jk");
         System.out.println("calling PZClass");
+        System.out.println("calling PZClass2");
 
     }
 }
