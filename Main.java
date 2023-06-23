@@ -14,7 +14,7 @@ public class Main {
         System.out.println("stash 2");
         System.out.println("stash 1");
         System.out.println("IntelliJ");
-        System.out.println("stash from here");
+        System.out.println("commit from jk");
 
     }
 }
