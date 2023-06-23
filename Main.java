@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Rebase.");
         System.out.println("main branch");
         System.out.println("new-branch");
-
+        System.out.println("commit between");
 
         System.out.println("stash 2");
         System.out.println("stash 1");
